@@ -14,7 +14,7 @@ This guide will walk you through setting up a **CoA server** for either **local/
 
 ### Step 1 — Download the Required Files
 
-1. Download the **CoA Repack** and the latest **CoA Repack Update** from `#js-3067`.
+1. Download the **CoA Repack** and the latest **CoA Repack Update** from [Server](https://discord.com/channels/1546991088751874168/1550812099511451748).
 2. Create a new folder anywhere on your computer.
 3. Name the folder something simple, such as:
 
