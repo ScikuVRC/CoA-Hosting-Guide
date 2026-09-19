@@ -292,7 +292,7 @@ If you want to add bots to your server:
 
 Download the **CoA Bots** package:
 
-[CoA Bots Download](https://drive.proton.me/urls/YFJWS1QVHR?utm_source=chatgpt.com#iVsuYKfzuNYe)
+[CoA Bots Download](https://discord.com/channels/1546991088751874168/1550812145195819090)
 
 ### Step 2 — Extract the Files
 
